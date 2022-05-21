@@ -1,0 +1,8 @@
+introduccion
+pensamiento computacional
+descomponer- abstraer- algotimizar
+
+hacer diagrama de flujo, usar:
+
+https://miro.com/app/dashboard/
+
